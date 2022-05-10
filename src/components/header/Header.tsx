@@ -20,7 +20,7 @@ const Header: React.FC = () => {
           >
             Download CV
           </a>
-          <a href="#contact" className="button button-primary">
+          <a href="#contacts" className="button button-primary">
             Text Me
           </a>
         </div>
@@ -28,7 +28,7 @@ const Header: React.FC = () => {
         <div className="main-photo">
           <img src={Image} alt="main" />
         </div>
-        <a href="#contact" className="scroll-down">
+        <a href="#contacts" className="scroll-down">
           Scroll Down
         </a>
       </div>

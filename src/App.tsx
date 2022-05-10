@@ -1,7 +1,7 @@
 import React from "react";
 import {
   About,
-  Contact,
+  Contacts,
   Experience,
   Footer,
   Header,
@@ -21,7 +21,7 @@ const App: React.FC = () => {
       <Services />
       <Portfolio />
       <Testimonials />
-      <Contact />
+      <Contacts />
       <Footer />
     </>
   );
