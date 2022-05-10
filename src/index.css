@@ -38,6 +38,7 @@ body {
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
+  background-image: url(./assets/bg-texture.png);
 }
 
 /* ========== General Styles ========== */

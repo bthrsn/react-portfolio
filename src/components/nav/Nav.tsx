@@ -11,7 +11,7 @@ const Nav = () => {
     { name: "#", iconType: AiOutlineHome },
     { name: "#about", iconType: AiOutlineUser },
     { name: "#experience", iconType: BiBook },
-    { name: "#services", iconType: RiServiceLine },
+    // { name: "#services", iconType: RiServiceLine },
     { name: "#contacts", iconType: RiMessage2Line },
   ];
 

@@ -7,7 +7,7 @@ import {
   Header,
   Nav,
   Portfolio,
-  Services,
+  // Services,
   Testimonials,
 } from "./components";
 
@@ -18,7 +18,7 @@ const App: React.FC = () => {
       <Nav />
       <About />
       <Experience />
-      <Services />
+      {/* <Services /> */}
       <Portfolio />
       <Testimonials />
       <Contacts />
