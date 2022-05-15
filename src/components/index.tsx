@@ -5,5 +5,4 @@ export { default as Footer } from "./footer";
 export { default as Header } from "./header";
 export { default as Nav } from "./nav";
 export { default as Portfolio } from "./portfolio";
-export { default as Services } from "./services";
 export { default as Testimonials } from "./testimonials";

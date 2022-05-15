@@ -2,16 +2,16 @@ import React, { useState } from "react";
 import "./nav.css";
 import { AiOutlineHome, AiOutlineUser } from "react-icons/ai";
 import { BiBook } from "react-icons/bi";
-import { RiServiceLine, RiMessage2Line } from "react-icons/ri";
+import { RiMessage2Line } from "react-icons/ri";
+import { IconType } from "react-icons";
 
 const Nav = () => {
   const [activeNav, setActiveNav] = useState("#");
 
-  const navItemsList = [
+  const navItemsList: navItemsListItemTypes = [
     { name: "#", iconType: AiOutlineHome },
     { name: "#about", iconType: AiOutlineUser },
     { name: "#experience", iconType: BiBook },
-    // { name: "#services", iconType: RiServiceLine },
     { name: "#contacts", iconType: RiMessage2Line },
   ];
 
@@ -27,3 +27,8 @@ const Nav = () => {
 };
 
 export default Nav;
+
+type navItemsListItemTypes = {
+  name: string;
+  iconType: IconType;
+}[]
