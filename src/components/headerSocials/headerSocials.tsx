@@ -5,10 +5,10 @@ import "./headerSocials.css";
 const HeaderSocials: React.FC = () => {
   return (
     <div className="header-socials">
-      <a href="http://linkedin.com" target="_blank" rel="noreferrer">
+      <a href="https://www.linkedin.com/in/mikhail-liakhovets-315835231/" target="_blank" rel="noreferrer">
         <BsLinkedin />
       </a>
-      <a href="http://github.com" target="_blank" rel="noreferrer">
+      <a href="https://github.com/bthrsn" target="_blank" rel="noreferrer">
         <BsGithub />
       </a>
     </div>

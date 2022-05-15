@@ -1,46 +1,46 @@
 {
   "projects": [
     {
-      "name": "JS Constructor",
-      "img_url": "../../assets/projects-screenshots/img-jsconstructor.PNG",
-      "page_url": "https://jsconstructor-855ac.web.app/",
-      "code_url": "https://github.com/bthrsn/JSConstructor",
-      "description": "Website constructor on pure JavaScript"
-    },
-    {
-      "name": "Twitter-style-app",
-      "img_url": "../../assets/projects-screenshots/img-twitter-style-app.PNG",
-      "page_url": "https://bthrsn.github.io/twitter-style-app/",
-      "code_url": "https://github.com/bthrsn/twitter-style-app",
-      "description": "Twiiter style app for posts"
+      "name": "Credit Calculator",
+      "img_url": "img-credit-calc.PNG",
+      "page_url": "https://bthrsn.github.io/credit-calculator/",
+      "code_url": "https://github.com/bthrsn/credit-calculator",
+      "description": "React app credit calculator"
     },
     {
       "name": "Whack-a-mole!",
-      "img_url": "../../assets/projects-screenshots/img-whack-a-mole.png",
+      "img_url": "img-whack-a-mole.png",
       "page_url": "https://bthrsn.github.io/whack-a-mole/",
       "code_url": "https://github.com/bthrsn/whack-a-mole",
       "description": "Webgame whack-a-mole"
     },
     {
-      "name": "React Calc Money",
-      "img_url": "../../assets/projects-screenshots/img-react-calc-money.PNG",
-      "page_url": "https://bthrsn.github.io/react-calc-money/",
-      "code_url": "https://github.com/bthrsn/react-calc-money",
-      "description": "React app Budget Calculator"
-    },
-    {
-      "name": "Need For Miami",
-      "img_url": "../../assets/projects-screenshots/img-need-for-miami.PNG",
+      "name": "Racing Game",
+      "img_url": "img-need-for-miami.PNG",
       "page_url": "https://bthrsn.github.io/need-for-miami/",
       "code_url": "https://github.com/bthrsn/need-for-miami",
       "description": "Frontend for racing webgame"
     },
     {
-      "name": "Credit Calculator",
-      "img_url": "../../assets/projects-screenshots/img-credit-calc.PNG",
-      "page_url": "https://bthrsn.github.io/credit-calculator/",
-      "code_url": "https://github.com/bthrsn/credit-calculator",
-      "description": "React app credit calculator"
+      "name": "Budget Calculator",
+      "img_url": "img-react-calc-money.PNG",
+      "page_url": "https://bthrsn.github.io/react-calc-money/",
+      "code_url": "https://github.com/bthrsn/react-calc-money",
+      "description": "React app Budget Calculator"
+    },
+    {
+      "name": "Website Constructor",
+      "img_url": "img-jsconstructor.PNG",
+      "page_url": "https://jsconstructor-855ac.web.app/",
+      "code_url": "https://github.com/bthrsn/JSConstructor",
+      "description": "Website constructor on pure JavaScript"
+    },
+    {
+      "name": "Twitter Styled App",
+      "img_url": "img-twitter-style-app.PNG",
+      "page_url": "https://bthrsn.github.io/twitter-style-app/",
+      "code_url": "https://github.com/bthrsn/twitter-style-app",
+      "description": "Twiiter style app for posts"
     }
   ]
 }

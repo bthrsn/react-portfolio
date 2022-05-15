@@ -39,13 +39,13 @@ header {
   font-size: 0.9rem;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1350px) {
   header {
     height: 68vh;
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   header {
     height: 100;
   }

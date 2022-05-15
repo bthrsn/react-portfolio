@@ -40,7 +40,7 @@
   color: var(--color-primary);
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1350px) {
   .container-experience {
     grid-template-columns: 1fr;
   }
@@ -56,7 +56,7 @@
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   .container-experience {
     gap: 1rem;
   }

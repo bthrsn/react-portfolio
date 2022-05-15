@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;800&display=swap");
 
 * {
   margin: 0;
@@ -118,7 +118,7 @@ img {
 
 /* =========== Media Queries (Medium devices) ============ */
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1350px) {
   .container {
     width: var(--container-width-md);
   }
@@ -130,7 +130,7 @@ img {
 
 /* =========== Media Queries (Small devices) ============ */
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   .container {
     width: var(--container-width-sm);
   }

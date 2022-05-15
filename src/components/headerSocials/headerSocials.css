@@ -15,7 +15,7 @@
   background: var(--color-primary);
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   .header-socials {
     display: none;
   }
