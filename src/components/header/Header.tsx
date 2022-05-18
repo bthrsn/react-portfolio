@@ -5,7 +5,7 @@ import "./header.css";
 const Image = require("../../assets/main-photo.png");
 const CV = require("../../assets/CV_Frontend_Developer_Liakhovets_Mikhail.pdf");
 
-const Header: React.FC = () => {
+const Header = () => {
   return (
     <header>
       <div className="container header-container">

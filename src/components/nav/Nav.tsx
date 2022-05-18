@@ -8,7 +8,7 @@ import { IconType } from "react-icons";
 const Nav = () => {
   const [activeNav, setActiveNav] = useState("#");
 
-  const navItemsList: navItemsListItemTypes = [
+  const navItemsList: navItemsListTypes = [
     { name: "#", iconType: AiOutlineHome },
     { name: "#about", iconType: AiOutlineUser },
     { name: "#experience", iconType: BiBook },
@@ -28,7 +28,7 @@ const Nav = () => {
 
 export default Nav;
 
-type navItemsListItemTypes = {
+type navItemsListTypes = {
   name: string;
   iconType: IconType;
 }[]

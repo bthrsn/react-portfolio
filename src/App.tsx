@@ -10,7 +10,7 @@ import {
   // Testimonials,
 } from "./components";
 
-const App: React.FC = () => {
+const App = () => {
   return (
     <>
       <Header />
