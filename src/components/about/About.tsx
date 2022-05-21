@@ -36,14 +36,21 @@ const About = () => {
             </article>
           </div>
           <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit
-              harum rem iure natus perferendis earum, deserunt accusamus sequi
-              architecto voluptatem cumque, sunt officia praesentium mollitia
-              delectus inventore excepturi modi nemo!
-            </p>
-            <a href="#contacts" className="button button-primary">
-              Text Me
-            </a>
+            1 year + of work in a worldwide company (USA, Portigal, Russia).
+            Developing and implementing new functionality to web and mobile
+            projects using HTML, CSS, JavaScript, TypeScript, React+Redux, React
+            Native, Git.
+            Searching for a new job because my skills and
+            competentions outgrows my current role and right now my company
+            cannot suggest me another position.
+            Before being a developer I had
+            experience in team management in sales. From March 2020 started to
+            learn web, Javascript, React.js and create several projects for
+            portfolio. You can take a look at them here.
+          </p>
+          <a href="#contacts" className="button button-primary">
+            Text Me
+          </a>
         </div>
       </div>
     </section>

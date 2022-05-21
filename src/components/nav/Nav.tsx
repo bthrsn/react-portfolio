@@ -7,7 +7,7 @@ import { RiMessage2Line } from "react-icons/ri";
 import { IconType } from "react-icons";
 import {Link} from "react-scroll";
 
-const Nav: React.FC = () => {
+const Nav = () => {
 
   const navItemsList: navItemsListTypes = [
     { name: "home", iconType: AiOutlineHome },
