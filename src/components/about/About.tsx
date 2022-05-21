@@ -36,16 +36,13 @@ const About = () => {
             </article>
           </div>
           <p>
-            1 year + of work in a worldwide company (USA, Portigal, Russia).
+            1 year + of work in a worldwide company (USA, Portugal, Russia).
             Developing and implementing new functionality to web and mobile
             projects using HTML, CSS, JavaScript, TypeScript, React+Redux, React
             Native, Git.
-            Searching for a new job because my skills and
-            competentions outgrows my current role and right now my company
-            cannot suggest me another position.
             Before being a developer I had
-            experience in team management in sales. From March 2020 started to
-            learn web, Javascript, React.js and create several projects for
+            experience of team management in sales. From March 2020 started to
+            learn web, Javascript, React.js and created several projects for
             portfolio. You can take a look at them here.
           </p>
           <a href="#contacts" className="button button-primary">
