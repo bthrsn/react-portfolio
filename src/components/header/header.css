@@ -59,4 +59,7 @@ header {
   .main-photo {
     display: none;
   }
+  .button-group {
+    margin-bottom: 1rem;
+  }
 }
