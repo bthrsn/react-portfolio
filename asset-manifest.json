@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.cbec1254.css",
+    "main.js": "/react-portfolio/static/js/main.d648a899.js",
+    "static/media/about-photo.png": "/react-portfolio/static/media/about-photo.2f883872a7c3fd62cba1.png",
+    "static/media/img-credit-calc.PNG": "/react-portfolio/static/media/img-credit-calc.7f9035de574734ed7e6b.PNG",
+    "static/media/img-need-for-miami.PNG": "/react-portfolio/static/media/img-need-for-miami.83f1ef3049a4747e178f.PNG",
+    "static/media/img-whack-a-mole.png": "/react-portfolio/static/media/img-whack-a-mole.3ec4ddd917c1c9745f43.png",
+    "static/media/CV_Frontend_Developer_Liakhovets_Mikhail.pdf": "/react-portfolio/static/media/CV_Frontend_Developer_Liakhovets_Mikhail.a39d6ccdd24f32f942cd.pdf",
+    "static/media/img-jsconstructor.PNG": "/react-portfolio/static/media/img-jsconstructor.741d42c3a5c1d34b490b.PNG",
+    "static/media/main-photo.png": "/react-portfolio/static/media/main-photo.327879b86fd2f3f99f40.png",
+    "static/media/img-react-calc-money.PNG": "/react-portfolio/static/media/img-react-calc-money.0b11281c1bea25c410ca.PNG",
+    "static/media/img-twitter-style-app.PNG": "/react-portfolio/static/media/img-twitter-style-app.8682af74a3f4cf974b44.PNG",
+    "index.html": "/react-portfolio/index.html",
+    "main.cbec1254.css.map": "/react-portfolio/static/css/main.cbec1254.css.map",
+    "main.d648a899.js.map": "/react-portfolio/static/js/main.d648a899.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbec1254.css",
+    "static/js/main.d648a899.js"
+  ]
+}
