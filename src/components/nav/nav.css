@@ -13,7 +13,7 @@ nav {
   backdrop-filter: blur(15px);
 }
 
-a {
+.nav-link {
   background: transparent;
   padding: 0.9rem;
   border-radius: 50%;
@@ -22,11 +22,11 @@ a {
   font-size: 1.1rem;
 }
 
-a:hover {
+.nav-link:hover {
   background: rgba(0, 0, 0, 0.3);
 }
 
-a.active {
-  background: var(--color-bg);
-  color: var(--color-white);
+.active {
+  background: var(--color-primary);
+  color: var(--color-bg);
 }

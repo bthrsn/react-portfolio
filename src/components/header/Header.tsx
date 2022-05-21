@@ -7,7 +7,7 @@ const CV = require("../../assets/CV_Frontend_Developer_Liakhovets_Mikhail.pdf");
 
 const Header = () => {
   return (
-    <header>
+    <header id="home">
       <div className="container header-container">
         <h5>Hello I'm</h5>
         <h1>Mikhail Liakhovets</h1>
