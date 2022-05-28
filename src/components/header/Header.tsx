@@ -11,7 +11,7 @@ const Header = () => {
       <div className="container header-container">
         <h5>Hello I'm</h5>
         <h1>Mikhail Liakhovets</h1>
-        <h5 className="text-light">Frontend Developer</h5>
+        <h5 className="text-light">React/React Native Developer</h5>
         <div className="button-group">
           <a
             href={CV}
@@ -21,7 +21,7 @@ const Header = () => {
             Download CV
           </a>
           <a href="#contacts" className="button button-primary">
-            Text Me
+            Contact Me
           </a>
         </div>
         <HeaderSocials />

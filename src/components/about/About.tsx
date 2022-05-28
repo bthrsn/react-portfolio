@@ -22,7 +22,7 @@ const About = () => {
             <article className="about-card">
               <FaAward className="about-icon" />
               <h5>Experience</h5>
-              <small>2+ Years Working</small>
+              <small>2+ Years</small>
             </article>
             <article className="about-card">
               <FiUsers className="about-icon" />
@@ -32,21 +32,21 @@ const About = () => {
             <article className="about-card">
               <VscFolderLibrary className="about-icon" />
               <h5>Projects</h5>
-              <small>30+ Supplied Projects</small>
+              <small>30+ Projects</small>
             </article>
           </div>
           <p>
-            1 year + of work in a worldwide company (USA, Portugal, Russia).
-            Developing and implementing new functionality to web and mobile
+            1+ year of work in a worldwide company (USA, Portugal, Russia).
+            Developing and implementing new functionalities to web and mobile
             projects using HTML, CSS, JavaScript, TypeScript, React+Redux, React
-            Native, Git.
-            Before being a developer I had
-            experience of team management in sales. From March 2020 started to
+            Native.
+            Before becoming a developer I had
+            experience of team management in sales. From March 2020 I started to
             learn web, Javascript, React.js and created several projects for
-            portfolio. You can take a look at them here.
+            portfolio. You can have a look at them here in the portfolio section.
           </p>
           <a href="#contacts" className="button button-primary">
-            Text Me
+            Contact Me
           </a>
         </div>
       </div>
