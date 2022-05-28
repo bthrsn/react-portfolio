@@ -37,7 +37,7 @@ const About = () => {
           </div>
           <p>
             1+ year of work in a worldwide company (USA, Portugal, Russia).
-            Developing and implementing new functionalities to web and mobile
+            Developing and implementing new functionalities for web and mobile
             projects using HTML, CSS, JavaScript, TypeScript, React+Redux, React
             Native.
             Before becoming a developer I had
