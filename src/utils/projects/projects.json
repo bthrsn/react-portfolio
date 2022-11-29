@@ -1,8 +1,15 @@
 {
   "projects": [
     {
+      "name": "Movies App",
+      "img_url": "img-movies-app.png",
+      "page_url": "https://bthrsn.github.io/movies-app/",
+      "code_url": "https://github.com/bthrsn/movies-app",
+      "description": "App displays popular movies based on TMDB Api"
+    },
+    {
       "name": "Credit Calculator",
-      "img_url": "img-credit-calc.PNG",
+      "img_url": "img-credit-calc.png",
       "page_url": "https://bthrsn.github.io/credit-calculator/",
       "code_url": "https://github.com/bthrsn/credit-calculator",
       "description": "React app credit calculator"
@@ -23,17 +30,10 @@
     },
     {
       "name": "Budget Calculator",
-      "img_url": "img-react-calc-money.PNG",
+      "img_url": "img-react-calc-money.png",
       "page_url": "https://bthrsn.github.io/react-calc-money/",
       "code_url": "https://github.com/bthrsn/react-calc-money",
       "description": "React app Budget Calculator"
-    },
-    {
-      "name": "Website Constructor",
-      "img_url": "img-jsconstructor.PNG",
-      "page_url": "https://jsconstructor-855ac.web.app/",
-      "code_url": "https://github.com/bthrsn/JSConstructor",
-      "description": "Website constructor on pure JavaScript"
     },
     {
       "name": "Twitter Styled App",
