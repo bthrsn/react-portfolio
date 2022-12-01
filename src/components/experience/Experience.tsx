@@ -4,11 +4,12 @@ import "./experience.css";
 
 const Experience = () => {
   const FrontendSkills = [
-    { name: "HTML", grade: "Experienced" },
-    { name: "CSS", grade: "Experienced" },
-    { name: "Webpack", grade: "Intermidiate" },
-    { name: "React", grade: "Experienced" },
-    { name: "Redux", grade: "Experienced" },
+    { name: "Typescript", grade: "Expert" },
+    { name: "Javascript", grade: "Expert" },
+    { name: "React", grade: "Expert" },
+    { name: "Redux", grade: "Expert" },
+    { name: "Phaser", grade: "Experienced" },
+    { name: "Pixie.js", grade: "Experienced" },
   ];
   const MobileSkills = [
     { name: "React Native", grade: "Experienced" },
