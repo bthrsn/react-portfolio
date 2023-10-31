@@ -3,7 +3,7 @@ import HeaderSocials from "../headerSocials";
 import "./header.css";
 
 const Image = require("../../assets/main-photo.png");
-const CV = require("../../assets/CV_Software Engineer_Mikhail_Liakhovets.pdf");
+const CV = require("../../assets/CV_Frontend_Developer_Mikhail_Liakhovets.pdf");
 
 const Header = () => {
   return (
@@ -11,7 +11,7 @@ const Header = () => {
       <div className="container header-container">
         <h5>Hello I'm</h5>
         <h1>Mikhail Liakhovets</h1>
-        <h5 className="text-light">Software Engineer</h5>
+        <h5 className="text-light">Frontend Developer</h5>
         <div className="button-group">
           <a
             href={CV}
