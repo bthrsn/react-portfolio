@@ -8,13 +8,6 @@
       "description": "App displays popular movies based on TMDB Api"
     },
     {
-      "name": "Credit Calculator",
-      "img_url": "img-credit-calc.png",
-      "page_url": "https://bthrsn.github.io/credit-calculator/",
-      "code_url": "https://github.com/bthrsn/credit-calculator",
-      "description": "React app credit calculator"
-    },
-    {
       "name": "Whack-a-mole!",
       "img_url": "img-whack-a-mole.png",
       "page_url": "https://bthrsn.github.io/whack-a-mole/",
@@ -27,20 +20,6 @@
       "page_url": "https://bthrsn.github.io/need-for-miami/",
       "code_url": "https://github.com/bthrsn/need-for-miami",
       "description": "Frontend for racing webgame"
-    },
-    {
-      "name": "Budget Calculator",
-      "img_url": "img-react-calc-money.png",
-      "page_url": "https://bthrsn.github.io/react-calc-money/",
-      "code_url": "https://github.com/bthrsn/react-calc-money",
-      "description": "React app Budget Calculator"
-    },
-    {
-      "name": "Twitter Styled App",
-      "img_url": "img-twitter-style-app.PNG",
-      "page_url": "https://bthrsn.github.io/twitter-style-app/",
-      "code_url": "https://github.com/bthrsn/twitter-style-app",
-      "description": "Twiiter style app for posts"
     }
   ]
 }
