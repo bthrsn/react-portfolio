@@ -1,23 +1,19 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.da9a689e.css",
-    "main.js": "/react-portfolio/static/js/main.334b05f3.js",
+    "main.js": "/react-portfolio/static/js/main.11b27981.js",
     "static/media/about-photo.png": "/react-portfolio/static/media/about-photo.2f883872a7c3fd62cba1.png",
     "static/media/img-movies-app.png": "/react-portfolio/static/media/img-movies-app.de510bf320c7cf6d9397.png",
-    "static/media/img-credit-calc.png": "/react-portfolio/static/media/img-credit-calc.f81f256323c5f278fbf4.png",
     "static/media/img-need-for-miami.PNG": "/react-portfolio/static/media/img-need-for-miami.83f1ef3049a4747e178f.PNG",
     "static/media/img-whack-a-mole.png": "/react-portfolio/static/media/img-whack-a-mole.3ec4ddd917c1c9745f43.png",
     "static/media/CV_Software Engineer_Mikhail_Liakhovets.pdf": "/react-portfolio/static/media/CV_Software Engineer_Mikhail_Liakhovets.091254c444ab46fefeb9.pdf",
-    "static/media/img-jsconstructor.PNG": "/react-portfolio/static/media/img-jsconstructor.741d42c3a5c1d34b490b.PNG",
     "static/media/main-photo.png": "/react-portfolio/static/media/main-photo.327879b86fd2f3f99f40.png",
-    "static/media/img-react-calc-money.png": "/react-portfolio/static/media/img-react-calc-money.440a0008240fc4771730.png",
-    "static/media/img-twitter-style-app.PNG": "/react-portfolio/static/media/img-twitter-style-app.8682af74a3f4cf974b44.PNG",
     "index.html": "/react-portfolio/index.html",
     "main.da9a689e.css.map": "/react-portfolio/static/css/main.da9a689e.css.map",
-    "main.334b05f3.js.map": "/react-portfolio/static/js/main.334b05f3.js.map"
+    "main.11b27981.js.map": "/react-portfolio/static/js/main.11b27981.js.map"
   },
   "entrypoints": [
     "static/css/main.da9a689e.css",
-    "static/js/main.334b05f3.js"
+    "static/js/main.11b27981.js"
   ]
 }
