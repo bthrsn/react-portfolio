@@ -22,7 +22,7 @@ const About = () => {
             <article className="about-card">
               <FaAward className="about-icon" />
               <h5>Experience</h5>
-              <small>3+ Years</small>
+              <small>4 Years</small>
             </article>
             <article className="about-card">
               <FiUsers className="about-icon" />
@@ -36,10 +36,10 @@ const About = () => {
             </article>
           </div>
           <p>
-            3+ year of work in a worldwide companies (USA, Portugal, France, Serbia, Russia).
+            4 years of work in a worldwide companies (USA, Portugal, France, Serbia, Russia).
             Developing and implementing new functionalities for web and mobile
             projects using HTML, CSS, JavaScript, TypeScript, React+Redux, React
-            Native. Before becoming a developer I had experience of team
+            Native, Next.js. Before becoming a developer I had experience of team
             management in sales. I have several projects in my portfolio page,
             you can have a look at them in portfolio section
           </p>

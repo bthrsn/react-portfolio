@@ -8,8 +8,8 @@ const Experience = () => {
     { name: "Javascript", grade: "Expert" },
     { name: "React", grade: "Expert" },
     { name: "Redux", grade: "Expert" },
-    { name: "Phaser", grade: "Experienced" },
-    { name: "Pixie.js", grade: "Experienced" },
+    { name: "Phaser/Pixie.js", grade: "Experienced" },
+    { name: "Next.js", grade: "Experienced" },
   ];
   const MobileSkills = [
     { name: "React Native", grade: "Experienced" },
